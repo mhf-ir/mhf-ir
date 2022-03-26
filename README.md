@@ -1,4 +1,4 @@
-Founder/CTO/Developer at [aasaam software development group](https://github.com/aasaam) 🐤
+Co-founder, CTO and Developer at [aasaam software development group](https://github.com/aasaam) 🐤
 
 Linux 🐧 / JavaScript 🟧  / PHP 🐘 / Python 🐍 / Golang 🦦
 
